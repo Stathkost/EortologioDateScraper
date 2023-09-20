@@ -32,13 +32,13 @@ Prerequisites:
 Before running the script, you need to ensure that you have the necessary Python libraries installed. You can install these libraries using pip:
 
 ```bash
-pip install requests beautifulsoup4 pyperclip```
+pip install requests beautifulsoup4 pyperclip
 
 How to use:
 
 Follow these steps to use the script:
 
-Clone this repository to your local machine: ```bash git clone https://github.com/your-username/EortologioDateScraper.git```
+Clone this repository to your local machine: git clone https://github.com/your-username/EortologioDateScraper.git
 
 Change to the project directory: cd EortologioDateScraper
 
