@@ -33,7 +33,7 @@ You can install these libraries using pip or using the requirements.txt file
 Follow these steps to use the script:
 
 Clone this repository to your local machine:   
-```git clone https://github.com/Stath_kost/EortologioDateScraper.git```
+```git clone https://github.com/Stathkost/EortologioDateScraper.git```
 
 Change to the project directory: ```cd EortologioDateScraper```
 
