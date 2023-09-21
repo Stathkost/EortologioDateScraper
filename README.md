@@ -37,7 +37,7 @@ Clone this repository to your local machine:
 
 Change to the project directory: ```cd EortologioDateScraper```
 
-Run the script: ```python celebration_date_scraper.py```
+Run the script: ```python EortologioDateScraper.py```
 
 Enter a **Greek** name when prompted.
 
